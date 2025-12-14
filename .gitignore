@@ -1,3 +1,7 @@
 # Docker MySQL data (do not track)
 docker/mysql/data/
+.env
+vendor/
+node_modules/
+docker/mysql/data/
 
