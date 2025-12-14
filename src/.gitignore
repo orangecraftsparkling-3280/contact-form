@@ -13,3 +13,5 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+# MySQL data (Docker volume)
+docker/mysql/data/
